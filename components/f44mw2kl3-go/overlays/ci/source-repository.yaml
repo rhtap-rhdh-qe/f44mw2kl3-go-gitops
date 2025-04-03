@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: f44mw2kl3-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/f44mw2kl3-go
